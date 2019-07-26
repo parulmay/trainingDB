@@ -1,0 +1,5 @@
+package com.db.employeemanagementsystem.bean;
+
+public class LoginBean {
+
+}

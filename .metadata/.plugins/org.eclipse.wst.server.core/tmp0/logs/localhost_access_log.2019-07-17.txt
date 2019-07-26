@@ -1,0 +1,12 @@
+127.0.0.1 - - [17/Jul/2019:17:22:23 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:23:26 +0530] "GET /EmployeeManagementSystem HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:23:26 +0530] "GET /EmployeeManagementSystem/ HTTP/1.1" 404 1103
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:23:26 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:23:38 +0530] "GET /EmployeeManagementSystem/ HTTP/1.1" 404 1103
+127.0.0.1 - - [17/Jul/2019:17:33:36 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [17/Jul/2019:17:40:00 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:40:10 +0530] "GET /EmployeeManagementSystem/login.html HTTP/1.1" 200 254
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:40:26 +0530] "POST /EmployeeManagementSystem/LoginServlet HTTP/1.1" 500 4232
+127.0.0.1 - - [17/Jul/2019:17:41:03 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:41:24 +0530] "POST /EmployeeManagementSystem/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:41:24 +0530] "GET /EmployeeManagementSystem/login.html HTTP/1.1" 200 254

@@ -1,0 +1,5 @@
+package com.db.employeemanagementsystem.dao;
+
+public interface LoginDAO {
+
+}
